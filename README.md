@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pradeep Deshmukh
-- 👀 I’m interested in exploring the technical world
+- 👀 I’m on the journey of exploring the technical world
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
