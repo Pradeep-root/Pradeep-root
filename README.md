@@ -20,16 +20,6 @@ Here's a brief overview of my key skills as an Android developer:
 ## Projects
 Below are some of the projects I've worked on:
 
-1. **MovieApi** - Brief description of the project and your role.
-   - Technologies/Libraries Used: [e.g., Kotlin, Retrofit, Room, etc.]
-   - Link to the project repository or live demo if available.
-
-2. **GrociryApp** - Brief description of the project and your role.
-   - Technologies/Libraries Used: Material desing, Jetpack compose UI
-   - Link to the project repository or live demo if available.
-
-<!-- Add more projects as necessary -->
-
 ## Contact Me
 - LinkedIn: https://www.linkedin.com/in/pradeep-deshmukh-root/
 
