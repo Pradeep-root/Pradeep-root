@@ -4,7 +4,7 @@
 Welcome to my portfolio! I'm Pradeep Deshmukh, an experienced Android developer passionate about creating high-quality mobile applications. This repository serves as a showcase of my skills, projects, and contributions to the Android development community.
 
 ## About Me
-I am a dedicated Android developer with 8+ of experience in designing, developing, and maintaining Android applications. My journey in the world of mobile development began I started from a start up comany I learned a lot there, them worked for big MNCs. Over the years, I've honed my skills in various aspects of Android development. I am also hobbiestic electronic maker, I like to make technology which give ways to softwares to talk with physical world via using hardware.
+I am a dedicated Android developer with 9 years of experience in designing, developing, and maintaining Android applications. My journey in the world of mobile development began I started from a start up comany I learned a lot there, them worked for big MNCs. Over the years, I've honed my skills in various aspects of Android development. I am also hobbiestic electronic maker, I like to make technology which give ways to softwares to talk with physical world via using hardware.
 
 
 ## Contact Me
