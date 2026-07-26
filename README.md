@@ -17,10 +17,6 @@ from HMI dashboards to secure transaction flows to BLE-connected medical devices
 <img src="https://img.shields.io/badge/Munich%2C%20Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pradeep-root&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS" alt="profile views">
-</p>
-
 ---
 
 ### About
