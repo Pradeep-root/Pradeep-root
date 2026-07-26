@@ -1,137 +1,130 @@
-# Hi, I'm Pradeep Kumar Deshmukh 👋
+# 👋 Hi, I'm Pradeep Kumar Deshmukh
 
-## Senior Android Engineer | Mobile Architecture | Kotlin | Jetpack Compose
+## Senior Android Engineer | Mobile Architect | Kotlin | Jetpack Compose
 
-I am a Senior Android Engineer with 11 years of experience designing and building 
-high-quality mobile applications across multiple industries including:
+Building scalable Android experiences for **automotive, fintech, healthcare, e-commerce, and IoT platforms**.
 
-🚗 Automotive HMI  
-💳 FinTech  
-🛒 E-Commerce  
-🏥 Healthcare  
-🔌 IoT & Connected Devices  
+With **11+ years of experience in Android development**, I specialize in designing high-quality mobile applications, modernizing architectures, improving performance, and creating reliable software for real-world products.
 
-I specialize in building scalable Android applications, designing clean 
-architectures, improving application performance, and delivering reliable 
-software experiences for real-world products.
+I enjoy solving complex engineering problems at the intersection of:
 
-My journey started in startup environments where I learned product development 
-from the ground up, followed by experience working with large engineering teams 
-and enterprise-scale applications.
-
-I enjoy solving complex engineering problems and exploring the intersection of 
-software, hardware, and connected technologies.
+**Mobile 📱 + Software Architecture 🏗 + Hardware 🔌**
 
 ---
 
-# 🚀 Professional Focus
+## 🚀 About Me
 
-## Android Engineering
-
-- Kotlin-first Android development
-- Java & Android SDK
-- Jetpack Compose
-- Android Architecture Components
-- MVVM / Clean Architecture
-- Modular Android applications
-- Coroutines & Flow
-- Dependency Injection (Hilt/Dagger)
-- Room Database
-- Networking & API integration
-- Performance optimization
-- Large-scale application development
+- 🔹 Senior Android Engineer with 11+ years of industry experience
+- 🔹 Strong expertise in Kotlin, Jetpack Compose, and Android architecture
+- 🔹 Experience building applications for automotive and embedded environments
+- 🔹 Passionate about clean code, scalable systems, and engineering excellence
+- 🔹 Interested in mobile architecture, connected devices, and emerging technologies
 
 ---
 
-# 🏭 Industry Experience
+## 💼 Professional Experience
 
-## 🚗 Automotive HMI
+### 🚗 Automotive & Embedded Android
 
-Experience building Android-based interfaces for automotive environments:
+Building Android solutions for vehicle platforms and connected systems.
 
-- Vehicle user interfaces
-- Embedded Android systems
-- HMI development
-- Performance-sensitive applications
-- Customization
+Experience with:
+- Automotive HMI applications
+- Embedded Android environments
+- Hardware communication
+- Performance-critical applications
 
+---
 
-## 💳 FinTech
+### 💳 FinTech Applications
 
-Building reliable applications where security, stability, and user experience matter:
+Developing secure and reliable applications where stability matters.
 
-- Secure transactions
-- Clean Architectured app
+Experience with:
+- Enterprise mobile solutions
+- Secure workflows
+- Scalable architecture
 - Performance optimization
-- Enterprise-grade mobile solutions
 
+---
 
-## 🛒 E-Commerce
+### 🏥 Healthcare Applications
 
-Developing user-focused applications involving:
+Working on reliability-focused applications with strong quality requirements.
 
-- Complex user journeys
-- API-driven architectures
-- Scalable UI components
-- Smooth user experiences
+Experience with:
+- Device integration
+- Data handling
+- User-focused solutions
+- Production-grade development
 
+---
 
-## 🏥 Healthcare
+### 🔌 IoT & Connected Devices
 
-Creating applications with focus on:
+Exploring the connection between mobile software and physical devices.
 
-- Reliability class level III critical devices app
-- Data management
-- User accessibility
-- Quality-driven development
-
-
-## 🔌 IoT & Connected Devices
-
-Exploring and building solutions involving:
-
-- Android device communication
-- Bluetooth/BLE
+Experience with:
+- Bluetooth/BLE communication
+- Device connectivity
 - Hardware integration
-- Embedded systems
-- Physical world interactions
+- Connected experiences
+
+---
+
+# 🛠 Tech Stack
+
+### Android
+`Kotlin` `Java` `Jetpack Compose` `Android SDK`
+
+### Architecture
+`Clean Architecture` `MVVM` `MVI` `Modularization` `SOLID`
+
+### Libraries & Tools
+`Coroutines` `Flow` `Hilt` `Dagger` `Room` `Retrofit`
+
+### Engineering Practices
+`Git` `CI/CD` `Unit Testing` `UI Testing` `Performance Optimization`
 
 ---
 
 # ⭐ Featured Projects
 
-## 📱 Android Applications
+## 📱 Android Architecture Samples
 
-Projects demonstrating:
-
-- Modern Android architecture
-- Clean and maintainable code
-- Scalable application design
-- Production-level engineering practices
-
-
-## 🏗 Android Architecture Examples
-
-Examples covering:
-
-- Clean Architecture
-- MVVM patterns
-- Modularization
-- Dependency injection
-- Testing strategies
-
+Demonstrating:
+- Clean Architecture patterns
+- Modern Android development
+- Scalable project structures
+- Testing approaches
 
 ## 🔌 Android + IoT Experiments
 
-Projects exploring:
-
-- Mobile-to-device communication
-- Hardware integration
+Exploring:
+- Device communication
+- Embedded integration
 - Connected applications
-- Embedded systems
 
 ---
 
-# 🛠 Technology Stack
+# 📚 Currently Exploring
 
-### Languages
+- Advanced Jetpack Compose patterns
+- Android system architecture
+- Kotlin improvements
+- AI-assisted software development
+- Connected device ecosystems
+
+---
+
+# 🤝 Let's Connect
+
+Interested in discussions around:
+
+- Android architecture
+- Mobile engineering
+- Kotlin & Compose
+- Embedded Android
+- IoT solutions
+
+⭐ Explore my repositories and feel free to connect!
