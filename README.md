@@ -32,8 +32,8 @@ I design and ship production Android software where reliability isn't optional �
 
 | Domain | Focus |
 |---|---|
-| 🚗 **Automotive** | HMI apps, embedded Android, hardware communication, real-time performance constraints |
 | 💳 **FinTech** | Secure transaction workflows, enterprise-scale architecture, compliance-aware design |
+| 🚗 **Automotive** | HMI apps, embedded Android, hardware communication, real-time performance constraints |
 | 🏥 **Healthcare** | Medical device integration, sensitive data handling, high-reliability production systems |
 | 🔌 **IoT** | Bluetooth/BLE protocols, device pairing & connectivity, embedded-to-mobile data pipelines |
 
