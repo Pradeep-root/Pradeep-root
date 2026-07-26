@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pradeep Kumar Deshmukh
 
-## Senior Android Engineer | Mobile Architect | Kotlin | Jetpack Compose
+## Senior Android Engineer | Mobile Architect | Kotlin | Jetpack Compose | AOSP
 
 Building scalable Android experiences for **automotive, fintech, healthcare, e-commerce, and IoT platforms**.
 
