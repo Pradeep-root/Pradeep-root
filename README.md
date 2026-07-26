@@ -6,6 +6,12 @@ Building scalable Android experiences for **automotive, fintech, healthcare, e-c
 
 With **11+ years of experience in Android development**, I specialize in designing high-quality mobile applications, modernizing architectures, improving performance, and creating reliable software for real-world products.
 
+🚗 Automotive HMI  
+💳 FinTech  
+🛒 E-Commerce  
+🏥 Healthcare  
+🔌 IoT & Connected Devices  
+
 I enjoy solving complex engineering problems at the intersection of:
 
 **Mobile 📱 + Software Architecture 🏗 + Hardware 🔌**
