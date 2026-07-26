@@ -51,9 +51,9 @@ Experience building Android-based interfaces for automotive environments:
 
 - Vehicle user interfaces
 - Embedded Android systems
-- Hardware interaction
+- HMI development
 - Performance-sensitive applications
-- Connected experiences
+- Customization
 
 
 ## 💳 FinTech
@@ -61,7 +61,7 @@ Experience building Android-based interfaces for automotive environments:
 Building reliable applications where security, stability, and user experience matter:
 
 - Secure transactions
-- Data handling
+- Clean Architectured app
 - Performance optimization
 - Enterprise-grade mobile solutions
 
@@ -80,7 +80,7 @@ Developing user-focused applications involving:
 
 Creating applications with focus on:
 
-- Reliability
+- Reliability class level III critical devices app
 - Data management
 - User accessibility
 - Quality-driven development
