@@ -1,15 +1,137 @@
-# Pradeep Deshmukh
+# Hi, I'm Pradeep Kumar Deshmukh 👋
 
-## Introduction
-Welcome to my portfolio! I'm Pradeep Deshmukh, an experienced Android developer passionate about creating high-quality mobile applications. This repository serves as a showcase of my skills, projects, and contributions to the Android development community.
+## Senior Android Engineer | Mobile Architecture | Kotlin | Jetpack Compose
 
-## About Me
-I am a dedicated Android developer with 9 years of experience in designing, developing, and maintaining Android applications. My journey in the world of mobile development began I started from a start up comany I learned a lot there, them worked for big MNCs. Over the years, I've honed my skills in various aspects of Android development. I am also hobbiestic electronic maker, I like to make technology which give ways to softwares to talk with physical world via using hardware.
+I am a Senior Android Engineer with 11 years of experience designing and building 
+high-quality mobile applications across multiple industries including:
+
+🚗 Automotive HMI  
+💳 FinTech  
+🛒 E-Commerce  
+🏥 Healthcare  
+🔌 IoT & Connected Devices  
+
+I specialize in building scalable Android applications, designing clean 
+architectures, improving application performance, and delivering reliable 
+software experiences for real-world products.
+
+My journey started in startup environments where I learned product development 
+from the ground up, followed by experience working with large engineering teams 
+and enterprise-scale applications.
+
+I enjoy solving complex engineering problems and exploring the intersection of 
+software, hardware, and connected technologies.
+
+---
+
+# 🚀 Professional Focus
+
+## Android Engineering
+
+- Kotlin-first Android development
+- Java & Android SDK
+- Jetpack Compose
+- Android Architecture Components
+- MVVM / Clean Architecture
+- Modular Android applications
+- Coroutines & Flow
+- Dependency Injection (Hilt/Dagger)
+- Room Database
+- Networking & API integration
+- Performance optimization
+- Large-scale application development
+
+---
+
+# 🏭 Industry Experience
+
+## 🚗 Automotive HMI
+
+Experience building Android-based interfaces for automotive environments:
+
+- Vehicle user interfaces
+- Embedded Android systems
+- Hardware interaction
+- Performance-sensitive applications
+- Connected experiences
 
 
-## Contact Me
-- LinkedIn: https://www.linkedin.com/in/pradeep-deshmukh-root/
+## 💳 FinTech
 
-Feel free to reach out if you have any questions, collaboration opportunities, or if you'd like to discuss potential projects. I'm always excited to connect with fellow developers and enthusiasts!
+Building reliable applications where security, stability, and user experience matter:
 
-Thank you for visiting my portfolio! 🚀
+- Secure transactions
+- Data handling
+- Performance optimization
+- Enterprise-grade mobile solutions
+
+
+## 🛒 E-Commerce
+
+Developing user-focused applications involving:
+
+- Complex user journeys
+- API-driven architectures
+- Scalable UI components
+- Smooth user experiences
+
+
+## 🏥 Healthcare
+
+Creating applications with focus on:
+
+- Reliability
+- Data management
+- User accessibility
+- Quality-driven development
+
+
+## 🔌 IoT & Connected Devices
+
+Exploring and building solutions involving:
+
+- Android device communication
+- Bluetooth/BLE
+- Hardware integration
+- Embedded systems
+- Physical world interactions
+
+---
+
+# ⭐ Featured Projects
+
+## 📱 Android Applications
+
+Projects demonstrating:
+
+- Modern Android architecture
+- Clean and maintainable code
+- Scalable application design
+- Production-level engineering practices
+
+
+## 🏗 Android Architecture Examples
+
+Examples covering:
+
+- Clean Architecture
+- MVVM patterns
+- Modularization
+- Dependency injection
+- Testing strategies
+
+
+## 🔌 Android + IoT Experiments
+
+Projects exploring:
+
+- Mobile-to-device communication
+- Hardware integration
+- Connected applications
+- Embedded systems
+
+---
+
+# 🛠 Technology Stack
+
+### Languages
