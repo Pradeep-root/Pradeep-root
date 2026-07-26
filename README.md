@@ -60,11 +60,6 @@ I design and ship production Android software where reliability isn't optional â
 ### GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pradeep-root&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-root&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3DDC84" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-root&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84" />
 </p>
 
@@ -72,11 +67,11 @@ I design and ship production Android software where reliability isn't optional â
 
 ### Featured Projects
 
-**[Currency Converter]((https://github.com/Pradeep-root/CurrencyConverter))**
-Reference implementation of Clean Architecture + MVVM with a modular, testable project structure.
+**[Currency Converter](https://github.com/Pradeep-root/CurrencyConverter)**
+Clean Architecture + MVVM implementation with a modular, testable project structure.
 
-**[Movie Info ]((https://github.com/Pradeep-root/MovieInfo))**
-MVVM architecture based good practice app 
+**[Movie Info](https://github.com/Pradeep-root/MovieInfo)**
+MVVM architecture-based app following Android best practices.
 
 ---
 
